@@ -1,0 +1,14 @@
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\bin\Debug\netcoreapp3.1\DeligateWithOneArguement.exe
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\bin\Debug\netcoreapp3.1\DeligateWithOneArguement.deps.json
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\bin\Debug\netcoreapp3.1\DeligateWithOneArguement.runtimeconfig.json
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\bin\Debug\netcoreapp3.1\DeligateWithOneArguement.runtimeconfig.dev.json
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\bin\Debug\netcoreapp3.1\DeligateWithOneArguement.dll
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\bin\Debug\netcoreapp3.1\DeligateWithOneArguement.pdb
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.csproj.AssemblyReference.cache
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.AssemblyInfoInputs.cache
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.AssemblyInfo.cs
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.csproj.CoreCompileInputs.cache
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.dll
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.pdb
+C:\Users\sanu.sn\source\repos\DeligateWithOneArguement\obj\Debug\netcoreapp3.1\DeligateWithOneArguement.genruntimeconfig.cache

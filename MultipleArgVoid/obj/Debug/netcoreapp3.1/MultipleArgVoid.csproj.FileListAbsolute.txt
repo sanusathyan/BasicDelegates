@@ -1,0 +1,14 @@
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\bin\Debug\netcoreapp3.1\MultipleArgVoid.exe
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\bin\Debug\netcoreapp3.1\MultipleArgVoid.deps.json
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\bin\Debug\netcoreapp3.1\MultipleArgVoid.runtimeconfig.json
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\bin\Debug\netcoreapp3.1\MultipleArgVoid.runtimeconfig.dev.json
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\bin\Debug\netcoreapp3.1\MultipleArgVoid.dll
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\bin\Debug\netcoreapp3.1\MultipleArgVoid.pdb
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.csproj.AssemblyReference.cache
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.AssemblyInfoInputs.cache
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.AssemblyInfo.cs
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.csproj.CoreCompileInputs.cache
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.dll
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.pdb
+C:\Users\sanu.sn\source\repos\MultipleArgVoid\obj\Debug\netcoreapp3.1\MultipleArgVoid.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sanu.sn\source\repos\MulArgInt\bin\Debug\netcoreapp3.1\MulArgInt.exe
+C:\Users\sanu.sn\source\repos\MulArgInt\bin\Debug\netcoreapp3.1\MulArgInt.deps.json
+C:\Users\sanu.sn\source\repos\MulArgInt\bin\Debug\netcoreapp3.1\MulArgInt.runtimeconfig.json
+C:\Users\sanu.sn\source\repos\MulArgInt\bin\Debug\netcoreapp3.1\MulArgInt.runtimeconfig.dev.json
+C:\Users\sanu.sn\source\repos\MulArgInt\bin\Debug\netcoreapp3.1\MulArgInt.dll
+C:\Users\sanu.sn\source\repos\MulArgInt\bin\Debug\netcoreapp3.1\MulArgInt.pdb
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.AssemblyInfoInputs.cache
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.AssemblyInfo.cs
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.csproj.CoreCompileInputs.cache
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.dll
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.pdb
+C:\Users\sanu.sn\source\repos\MulArgInt\obj\Debug\netcoreapp3.1\MulArgInt.genruntimeconfig.cache
